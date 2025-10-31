@@ -71,6 +71,13 @@ h1 {
     color: #555;
 }
 
+.remember input {
+    margin-right: 10px;
+}
+
+.remember label {
+    font-size: 15px;
+}
 
 button {
     width: 140px;
@@ -80,7 +87,6 @@ button {
     border: 0px;
     background-color: rgb(60, 73, 255);
     color: white;
-    box-shadow: 2px 2px 7px 1px rgba(63, 63, 63, 0.445);
     &:hover {
         cursor: pointer;
     }

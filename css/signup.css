@@ -80,7 +80,6 @@ button {
     border: 0px;
     background-color: rgb(255, 131, 60);
     color: white;
-    box-shadow: 2px 2px 7px 1px rgba(63, 63, 63, 0.445);
     &:hover {
         cursor: pointer;
     }
